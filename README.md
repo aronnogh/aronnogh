@@ -51,23 +51,24 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aronnogh&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronnogh&theme=radical" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=aronnogh&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronnogh&theme=tokyonight" width="48%" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aronnogh&theme=react-dark" width="100%" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aronnogh&theme=tokyonight" width="100%" alt="GitHub Activity Graph">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronnogh&theme=github" width="100%" alt="Profile Details">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aronnogh&theme=radical" width="48%" alt="Top Languages">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aronnogh&theme=radical" width="48%" alt="Most Used Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronnogh&theme=tokyonight" width="100%" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aronnogh&theme=tokyonight" width="48%" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aronnogh&theme=tokyonight" width="48%" alt="Most Used Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronnogh&layout=compact&theme=radical" width="48%" alt="Most Used Languages">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aronnogh&theme=radical&utcOffset=5" width="48%" alt="Productive Time">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronnogh&layout=compact&theme=tokyonight" width="48%" alt="Most Used Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aronnogh&theme=tokyonight&utcOffset=5" width="48%" alt="Productive Time">
 </p>
 
 ---
@@ -75,9 +76,10 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aronnogh&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=aronnogh&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
 ---
+
 
 ## ✨ "Let's code the future together!" 🚀
