@@ -48,44 +48,6 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 
 ---
 
-# Hi there, I'm Aronno! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
-
-<p align="center">
-  <img src="./aronno.png" width="50px" />
-</p>
-
-## 🚀 About Me
-
-I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **React Native, NativeScript, and the MERN stack**. I love building innovative and user-centric applications that solve real-world problems.
-
-🎓 **BTech Student at KIIT University**  
-🛠️ **Co-founder of Oyenja, Dev Dynasty, NavyScript Lab.**  
-🌍 **Currently in India | From Bangladesh**  
-💡 **Tech Explorer | Problem Solver**  
-
----
-
-## 🛠️ Technologies & Tools
-
-### 👨‍💻 Frontend Development:
-- ⚛️ React.js, Next.js
-- 🎨 Tailwind CSS, Material-You, Shadcn/UI
-- 🎭 Framer Motion, Three.js, GSAP
-- 📱 Flutter, React Native, NativeScript
-
-### 🏗️ Backend Development:
-- 🔥 Node.js, Express.js, Bun.js, Huno.js
-- 🗄️ Supabase, Appwrite, Neon DB, MongoDB, MySQL, PostgreSQL, Redis
-- 🛡️ Authentication (OAuth, JWT, Auth0, Next-Auth, js-cookies)
-
-### 🎯 Skills Developing:
-- 📊 System Design, Data Structures & Algorithms (DSA)
-- 🤖 AI/ML Basics, Web Scraping, Ethical Hacking
-- 🛩️ Drone & IoT Projects, OpenAI, LangChain
-- 🖥️ Linux, Bash, Docker, Kubernetes
-
----
-
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
