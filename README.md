@@ -48,6 +48,44 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 
 ---
 
+# Hi there, I'm Aronno! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
+
+<p align="center">
+  <img src="./aronno.png" width="50px" />
+</p>
+
+## 🚀 About Me
+
+I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **React Native, NativeScript, and the MERN stack**. I love building innovative and user-centric applications that solve real-world problems.
+
+🎓 **BTech Student at KIIT University**  
+🛠️ **Co-founder of Oyenja, Dev Dynasty, NavyScript Lab.**  
+🌍 **Currently in India | From Bangladesh**  
+💡 **Tech Explorer | Problem Solver**  
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 👨‍💻 Frontend Development:
+- ⚛️ React.js, Next.js
+- 🎨 Tailwind CSS, Material-You, Shadcn/UI
+- 🎭 Framer Motion, Three.js, GSAP
+- 📱 Flutter, React Native, NativeScript
+
+### 🏗️ Backend Development:
+- 🔥 Node.js, Express.js, Bun.js, Huno.js
+- 🗄️ Supabase, Appwrite, Neon DB, MongoDB, MySQL, PostgreSQL, Redis
+- 🛡️ Authentication (OAuth, JWT, Auth0, Next-Auth, js-cookies)
+
+### 🎯 Skills Developing:
+- 📊 System Design, Data Structures & Algorithms (DSA)
+- 🤖 AI/ML Basics, Web Scraping, Ethical Hacking
+- 🛩️ Drone & IoT Projects, OpenAI, LangChain
+- 🖥️ Linux, Bash, Docker, Kubernetes
+
+---
+
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
@@ -57,6 +95,17 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aronnogh&theme=react-dark" width="100%" alt="GitHub Activity Graph">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronnogh&theme=radical" width="100%" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aronnogh&theme=radical" width="48%" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aronnogh&theme=radical" width="48%" alt="Most Used Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronnogh&layout=compact&theme=radical" width="48%" alt="Most Used Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aronnogh&theme=radical&utcOffset=5" width="48%" alt="Productive Time">
 </p>
 
 ---
