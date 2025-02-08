@@ -60,7 +60,7 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aronnogh&theme=radical" width="100%" alt="GitHub Activity Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronnogh&theme=github" width="100%" alt="Profile Details">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aronnogh&theme=radical" width="48%" alt="Top Languages">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aronnogh&theme=radical" width="48%" alt="Most Used Languages">
 </p>
