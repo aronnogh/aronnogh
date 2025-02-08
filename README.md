@@ -1,35 +1,34 @@
-# Hi there, I'm Aronno! 👋
+# Hi there, I'm Aronno! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
+  <img src="./aronno.png" width="50px" />
 </p>
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **React Native, Flutter, and the MERN stack**. I love building innovative and user-centric applications that solve real-world problems.
+I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **React Native, NativeScript, and the MERN stack**. I love building innovative and user-centric applications that solve real-world problems.
 
 🎓 **BTech Student at KIIT University**  
-🛠️ **Co-founder of Dev Dynasty**  
+🛠️ **Co-founder of Oyenja, Dev Dynasty, NavyScript Lab.**  
 🌍 **Currently in India | From Bangladesh**  
-💡 **AI Enthusiast | Tech Explorer | Problem Solver**  
+💡 **Tech Explorer | Problem Solver**  
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 ### 👨‍💻 Frontend Development:
-- ⚛️ React.js, Next.js, React Native
-- 🎨 Tailwind CSS, Material-You, Chakra UI
+- ⚛️ React.js, Next.js
+- 🎨 Tailwind CSS, Material-You, Shadcn/UI
 - 🎭 Framer Motion, Three.js, GSAP
-- 📱 Flutter, SwiftUI (Basic)
+- 📱 Flutter, React Native, NativeScript
 
 ### 🏗️ Backend Development:
-- 🚀 Node.js, Express.js, Bun.js
-- 🔥 Firebase, Supabase, Appwrite
-- 🗄️ PostgreSQL, MySQL, MongoDB, Redis
-- 🛡️ Authentication (OAuth, JWT, Firebase Auth)
+- 🔥 Node.js, Express.js, Bun.js, Huno.js
+- 🗄️ Supabase, Appwrite, Neon DB, MongoDB, MySQL, PostgreSQL, Redis
+- 🛡️ Authentication (OAuth, JWT, Auth0, Next-Auth, js-cookies)
 
-### 🎯 Other Skills:
+### 🎯 Skills Developing:
 - 📊 System Design, Data Structures & Algorithms (DSA)
 - 🤖 AI/ML Basics, Web Scraping, Ethical Hacking
 - 🛩️ Drone & IoT Projects, OpenAI, LangChain
@@ -37,26 +36,14 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 
 ---
 
-## 📌 Featured Projects
-
-🚀 **[Medicine Timer App](https://github.com/aronnogh/medicine-timer-app)** – A React Native app with alarms for medicine reminders.
-
-❤️ **[Love Life Predictor](https://github.com/aronnogh/love-life-predictor)** – AI-based app to analyze love relationships.
-
-🌧️ **[Rainy Day Messenger](https://github.com/aronnogh/rainy-day-messenger)** – Automated messaging system for rainy days.
-
-🛠 **[Portfolio Website](https://aronnogh.com)** – My personal portfolio showcasing my projects and skills.
-
----
-
 ## 🌍 Connect With Me
 
 <p align="left">
-<a href="https://aronnogh.com" target="_blank"><img src="https://img.shields.io/badge/Website-Aronno-%2300BFFF?style=flat&logo=Google-Chrome&logoColor=white"></a>
-<a href="mailto:aronnogh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact_Me-%23D14836?style=flat&logo=gmail&logoColor=white"></a>
-<a href="https://twitter.com/aronnogh" target="_blank"><img src="https://img.shields.io/badge/Twitter-@Aronno-%231DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-<a href="https://linkedin.com/in/aronnogh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect_Me-%230077B5?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/aronnogh" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow_Me-%23E4405F?style=flat&logo=instagram&logoColor=white"></a>
+<a href="https://koushik-aronno.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Aronno-%2300BFFF?style=flat&logo=Google-Chrome&logoColor=white"></a>
+<a href="mailto:koushik.647433@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact_Me-%23D14836?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://x.com/Koushik647433" target="_blank"><img src="https://img.shields.io/badge/Twitter-@Aronno-%231DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aronnogh647433/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect_Me-%230077B5?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/koushik_aronno_647433/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow_Me-%23E4405F?style=flat&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
