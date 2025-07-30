@@ -15,6 +15,13 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 
 ---
 
+## 📄 Published Research Paper(s)
+
+- 📌 **[ROS-Driven Autonomous Navigation](https://doi.org/g82grs)**  
+  *Autonomous navigation for wheeled robots in dynamic and unstructured environments using ROS.*
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### 👨‍💻 Frontend Development:
@@ -52,7 +59,6 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aronnogh&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronnogh&theme=tokyonight" width="48%" alt="GitHub Streak">
 </p>
 
@@ -80,6 +86,5 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 </p>
 
 ---
-
 
 ## ✨ "Let's code the future together!" 🚀
