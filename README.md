@@ -1,7 +1,7 @@
 # Hi there, I'm Aronno! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 
 <p align="center">
-  <img src="./aronno.png" />
+  <img src="./aronno-banner.png" />
 </p>
 
 ## 🚀 About Me
