@@ -40,7 +40,7 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 
 <p align="left">
 <a href="https://koushik-aronno.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Aronno-%2300BFFF?style=flat&logo=Google-Chrome&logoColor=white"></a>
-<a href="mailto:koushik.647433@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact_Me-%23D14836?style=flat&logo=gmail&logoColor=white"></a>
+<a href="mailto:aronno647433@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact_Me-%23D14836?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://x.com/Koushik647433" target="_blank"><img src="https://img.shields.io/badge/Twitter-@Aronno-%231DA1F2?style=flat&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/aronnogh647433/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect_Me-%230077B5?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/koushik_aronno_647433/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow_Me-%23E4405F?style=flat&logo=instagram&logoColor=white"></a>
