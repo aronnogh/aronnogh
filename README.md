@@ -104,4 +104,4 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 }
 ```
 
-| use the provided code to make your vs code look professional |
+| N.B. | use the provided code to make your vs code look professional |
