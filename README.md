@@ -90,8 +90,7 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 ## ✨ "Let's code the future together!" 🚀
 
 #### But wait!
-```
-__settings.json__
+```json
 {
     "editor.fontSize": 16,
     "files.autoSave": "afterDelay",
