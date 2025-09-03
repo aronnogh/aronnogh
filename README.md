@@ -91,7 +91,7 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 
 #### But wait!
 ```
-`settings.json`
+__settings.json__
 {
     "editor.fontSize": 16,
     "files.autoSave": "afterDelay",
