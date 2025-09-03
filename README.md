@@ -88,3 +88,21 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 ---
 
 ## ✨ "Let's code the future together!" 🚀
+
+#### But wait!
+```
+`settings.json`
+{
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "Kode Mono SemiBold",
+    "editor.wordWrap": "on",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Material Theme DeepForest High Contrast",
+    "workbench.productIconTheme": "icons-carbon",
+    "files.autoSaveDelay": 1,
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+}
+```
+
+| use the provided code to make your vs code look professional |
